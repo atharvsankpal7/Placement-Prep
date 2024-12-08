@@ -1,0 +1,6 @@
+Ques 1 : Find the minimum and maximum element in an array
+Ques 2 : Find a peak element which is not smaller than its neighbors
+Ques 3: Write a program to reverse the array
+Ques 4: Write a program to sort the given array
+Ques 5: Subarray with given Sum
+Ques 6 :Find the Kth largest and Kth smallest number in an array
